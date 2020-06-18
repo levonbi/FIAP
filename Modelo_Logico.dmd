@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo_Logico" id="07A398A1-78A5-6045-B8CB-E70F1A49A17E" version="3.5">
+<createdBy>lkasparian</createdBy>
+<createdTime>2020-05-12 00:28:43 UTC</createdTime>
+<ownerDesignName>CAP 5 - Agenda de Contatos</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>07A398A1-78A5-6045-B8CB-E70F1A49A17E</designId>
+</OSDM_Design>
